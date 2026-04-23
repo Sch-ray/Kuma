@@ -4,8 +4,6 @@ And if you have enough time, you can also choose finer print settings for higher
 
 I used **PETG** material for printing. With proper printer settings, the result should come out pretty good.
 
-The main design goal of this enclosure is simplicity — even if you don’t have a soldering iron, you should still be able to disassemble and assemble it (although having one definitely helps).
-
 > [!WARNING]
 > Warning: Disassembling the enclosure may damage your device. You are responsible for any risks or consequences.
 
@@ -21,7 +19,7 @@ The main design goal of this enclosure is simplicity — even if you don’t hav
 
 ### Before printing your own enclosure, you should know:
 
-1. Due to cost constraints and limited development resources, the structure is not perfect. Disassembly carries some risk. Please read the instructions carefully and make sure you have steady hands.
+1. Due to cost constraints and limited development resources, the structure is not perfect. Disassembly carries some risk. Please read the instructions carefully and make sure you have steady hands and a solder station.
 
 2. Replacing and installing the enclosure requires hands-on skills. Make sure you are confident before starting. Any damage caused during disassembly is your own responsibility.
 
@@ -72,6 +70,9 @@ Use tweezers or your fingernail to disconnect the power connector located at the
 > If you use metal tweezers, be careful not to short-circuit anything.
 
 Remove the four small screws at the upper-left corner using a screwdriver.
+
+> [!TIP]
+>To ensure a stable connection, the method has been changed to welding. If you received the equipment after May 2026, it is of the welding type. In that case, you need to use a soldering iron to remove it.
 
 ![Step\_1](./Step/IMG_0732.JPG)
 ![Step\_1](./Step/IMG_0731.JPG)
