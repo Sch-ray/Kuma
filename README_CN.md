@@ -11,5 +11,9 @@
 
 这是我的Youtube频道
 [Youtube](https://www.youtube.com/channel/UCHENkZK1oac_hoAVk4aAufA)
+
 这是我的BiliBili频道
 [BiliBili](https://space.bilibili.com/150167463)
+
+如果你在寻求商业合作或者关于项目的建议，可以通过邮箱联系我
+[Email](xiao_hei666@yeah.net)

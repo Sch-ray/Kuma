@@ -14,3 +14,6 @@ This is my YouTube channel
 
 This is my BiliBili channel
 [BiliBili](https://space.bilibili.com/150167463)
+
+If you are seeking business collaboration or advice regarding a project, you can contact me via email.
+[Email](xiao_hei666@yeah.net)
